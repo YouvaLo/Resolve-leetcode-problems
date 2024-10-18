@@ -26,7 +26,7 @@ public class Solution
         
         var indexesTab = TwoSum(nums, 5);
         
-        foreach(var indexTab in indexesTab) 
+    	foreach(var indexTab in indexesTab) 
 		{
         	Console.Write(indexTab);
 		}
