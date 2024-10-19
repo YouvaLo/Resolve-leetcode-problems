@@ -48,7 +48,7 @@ Given a string s consisting of words and spaces, return the length of the last w
     Input: s = "Donald Trump"
     Output: 5
 
-# Example 3:
+## Example 3:
 
     Input: s = "Call of duty "
     Output: 4
@@ -69,3 +69,13 @@ Given a sorted array of distinct integers and a target value, return the index i
     Input_2 : nums = [1 4 6 5], target = 2 
     Output_2 : Index of 2 is 1, because updatedNums = [1 2 4 5 6]
     
+---------------------------------------------------------------------------------------------------
+
+# Exercice 5 : Add Binary 
+
+Given two binary strings a and b, return their sum as a binary string.
+
+## Example : 
+
+    Input: a = "111" et b = "11"
+    Output: add = "1010" 
