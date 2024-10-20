@@ -3,7 +3,7 @@ using System.Numerics;
 class program
 {
    //base10 to base2 conversion : by Division 
-    public static string IntegerToBinary(BigInteger a)
+    public static string IntegerToBinary(int a)
     {
         if (a == 0) return "0";
         var sA = "";
