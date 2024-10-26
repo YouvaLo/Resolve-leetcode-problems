@@ -19,7 +19,7 @@ class program
     public static int HammingWeight(int n)
     {
         var numberOfSetBits = 0;
-        var tabN = IntegerToBinary(n).ToArray();
+        var tabN = IntegerToBinary(n);
         
         foreach (var tn in tabN) numberOfSetBits += int.Parse(tn.ToString());
 
