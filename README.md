@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various problems on [LeetCode](https://leetcode.com/problemset/). 
 
-Below you'll find links to the various explanations for each problem :  
+Below you will find links to the description of each problem :  
 
 - [TwoSum](./leetcode-problems-solutions/easy-lavel/two-sum/README.md)
 - [PalindromeNumber](./leetcode-problems-solutions/easy-lavel/palindrome-number/README.md)
