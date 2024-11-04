@@ -4,7 +4,7 @@ This repository contains my solutions to various problems on [LeetCode](https://
 
 Below you will find links to the description of each problem : 
 
-## Easy Level : 
+## Problem Difficulty level : Easy 
 
 - [TwoSum](./leetcode-problems-solutions/easy-lavel/two-sum/README.md)
 - [PalindromeNumber](./leetcode-problems-solutions/easy-lavel/palindrome-number/README.md)
