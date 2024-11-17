@@ -1,4 +1,4 @@
-# Exercice 13 : Fizz Buzz ([Fizz Buzz LeetCode](https://leetcode.com/problems/fizz-buzz/description/))
+# Problem 13 : Fizz Buzz ([Fizz Buzz LeetCode](https://leetcode.com/problems/fizz-buzz/description/))
 
 Given an integer n, return a string array answer (1-indexed) where:
 

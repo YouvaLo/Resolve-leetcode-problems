@@ -1,4 +1,4 @@
-# Exercice 10 : Power Of Three ([Power of Three LeetCode](https://leetcode.com/problems/power-of-three/description/))
+# Problem 10 : Power Of Three ([Power of Three LeetCode](https://leetcode.com/problems/power-of-three/description/))
 
 Given an integer n, return true if it is a power of three. Otherwise, return false.
 

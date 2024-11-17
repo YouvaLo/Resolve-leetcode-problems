@@ -1,4 +1,4 @@
-# Exercice 3 : Length of Last Word ([Length of Last Word LeetCode](https://leetcode.com/problems/length-of-last-word/description/))
+# Problem 3 : Length of Last Word ([Length of Last Word LeetCode](https://leetcode.com/problems/length-of-last-word/description/))
 
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 

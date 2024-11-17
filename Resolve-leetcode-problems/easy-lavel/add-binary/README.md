@@ -1,4 +1,4 @@
-# Exercice 5 : Add Binary ([Add Binary LeetCode](https://leetcode.com/problems/add-binary/description/))
+# Problem 5 : Add Binary ([Add Binary LeetCode](https://leetcode.com/problems/add-binary/description/))
 
 Given two binary strings a and b, return their sum as a binary string.
 
