@@ -1,4 +1,4 @@
-# Exercice 1 : Two Sum ==> [TwoSum](https://leetcode.com/problems/two-sum/description/)
+# Exercice 1 : Two Sum ([TwoSum LeetCode](https://leetcode.com/problems/two-sum/description/))
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
