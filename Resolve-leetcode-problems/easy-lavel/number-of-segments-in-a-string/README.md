@@ -1,4 +1,4 @@
-# Exercice 8 : Number of Segments in a String Array ([Number of Segments LeetCode](https://leetcode.com/problems/number-of-segments-in-a-string/description/))
+# Problem 8 : Number of Segments in a String Array ([Number of Segments LeetCode](https://leetcode.com/problems/number-of-segments-in-a-string/description/))
 
 Given a string s, return the number of segments in the string.
 

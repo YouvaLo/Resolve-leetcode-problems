@@ -1,4 +1,4 @@
-# Exercice 11 : Power Of Four ([Power of Four LeetCode](https://leetcode.com/problems/power-of-four/description/))
+# Problem 11 : Power Of Four ([Power of Four LeetCode](https://leetcode.com/problems/power-of-four/description/))
 
 Given an integer n, return true if it is a power of four. Otherwise, return false.
 

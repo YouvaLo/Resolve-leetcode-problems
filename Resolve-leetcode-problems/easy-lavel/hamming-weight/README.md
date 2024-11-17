@@ -1,4 +1,4 @@
-# Exercice 6 : Hamming weight : Number of set(1) bits ([Hamming Weight LeetCode](https://leetcode.com/problems/number-of-1-bits/description/))
+# Problem 6 : Hamming weight : Number of set(1) bits ([Hamming Weight LeetCode](https://leetcode.com/problems/number-of-1-bits/description/))
 
 Given a positive integer n, write a function that returns the number of set bits in its binary representation (also known as the Hamming weight).
 
