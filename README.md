@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various problems on [LeetCode](https://leetcode.com/problemset/). 
 
-Below you will find links to the description of each problem : 
+Below you will find links to the description and solution of each problem : 
 
 ## Problem Difficulty level : Easy 
 
@@ -15,6 +15,7 @@ Below you will find links to the description of each problem :
 - [AddBinary](./Resolve-leetcode-problems/easy-lavel/add-binary/README.md)
 - [HammingWeight](./Resolve-leetcode-problems/easy-lavel/hamming-weight/README.md)
 - [PowerOfTwo](./Resolve-leetcode-problems/easy-lavel/power-of-two/README.md)
+- [NumberOfSegments](./Resolve-leetcode-problems/easy-lavel/number-of-segments-in-a-string/README.md)
 
 ### Solutions 
 
@@ -25,3 +26,4 @@ Below you will find links to the description of each problem :
 - [AddBinary](./Resolve-leetcode-problems/easy-lavel/add-binary/AddBinary.cs)
 - [HammingWeight](./Resolve-leetcode-problems/easy-lavel/hamming-weight/HammingWeight.cs)
 - [PowerOfTwo](./Resolve-leetcode-problems/easy-lavel/power-of-two/PowerOfTwo.cs)
+- [NumberOfSegments](./Resolve-leetcode-problems/easy-lavel/number-of-segments-in-a-string/NumberOfSegments.cs)
