@@ -1,4 +1,4 @@
-# Exercice 7 : Power Of Two ([Power of Two LeetCode](https://leetcode.com/problems/power-of-two/description/))
+# Problem 7 : Power Of Two ([Power of Two LeetCode](https://leetcode.com/problems/power-of-two/description/))
 
 Given an integer n, return true if it is a power of two. Otherwise, return false.
 

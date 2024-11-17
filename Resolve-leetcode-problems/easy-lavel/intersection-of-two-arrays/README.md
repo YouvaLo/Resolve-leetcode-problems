@@ -1,4 +1,4 @@
-# Exercice 12 : Intersection of Two Arrays ([Intersection of Two Arrays LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/description/))
+# Problem 12 : Intersection of Two Arrays ([Intersection of Two Arrays LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/description/))
 
 Given two integer arrays nums1 and nums2, return an array of their intersection. 
 

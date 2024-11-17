@@ -1,4 +1,4 @@
-# Exercice 2 : Palindrome Number ([Palindrome Number LeetCode](https://leetcode.com/problems/palindrome-number/description/))
+# Problem 2 : Palindrome Number ([Palindrome Number LeetCode](https://leetcode.com/problems/palindrome-number/description/))
 
 Given an integer x, return true if x is a palindrome, and false if not.
 
