@@ -1,6 +1,10 @@
-# Exercice 4 : Search Insert Position 
+# Exercice 4 : Search Insert Position ([Search Insert Position LeetCode](https://leetcode.com/problems/search-insert-position/description/))
 
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+
+## Rank and Runtime/Memory Statistics :  
+
+<img src="../../assets/SearchInsertPosition.png" alt="Runtime and Memory Statistics" width="500" height="300"/>
 
 ## Example 1 : 
 
