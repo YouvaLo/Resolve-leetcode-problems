@@ -1,4 +1,5 @@
-public class Program
+using System;
+public class Solution
 {
    public static int LengthOfLastWord(string s)
    {
@@ -11,7 +12,7 @@ public class Program
 
    public static void Main()
    {
-      var s = "   fly me   to   the moon  ";
-      Console.WriteLine($"{LengthOfLastWord(s)}");
+      var s = "   Bonjour   les   amis  ";
+      Console.WriteLine($"The length of the last word is : {LengthOfLastWord(s)}");
    }
 }

@@ -1,6 +1,7 @@
+using System;
 using System.Numerics;
 
-class program
+class Solution
 {
    //base10 to base2 conversion : by Division 
     public static string IntegerToBinary(int a)
@@ -29,6 +30,6 @@ class program
     public static void Main(string[] args)
     {
         int n = 128;
-        Console.WriteLine($"Number of set bits is {HammingWeight(n)}");  
+        Console.WriteLine($"Number of set bits of number {n} is {HammingWeight(n)}"); 
     }
 }

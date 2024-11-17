@@ -1,6 +1,12 @@
-# Exercice 2 : Palindrome Number
+# Exercice 2 : Palindrome Number ([Palindrome Number LeetCode](https://leetcode.com/problems/palindrome-number/description/))
 
 Given an integer x, return true if x is a palindrome, and false if not.
+
+Palindrome : It can be read both way 
+
+## Rank and Runtime/Memory Statistics :  
+
+<img src="../../assets/PalindromeNumber.png" alt="Runtime and Memory Statistics" width="500" height="300"/>
 
 ## Example 1 : 
 

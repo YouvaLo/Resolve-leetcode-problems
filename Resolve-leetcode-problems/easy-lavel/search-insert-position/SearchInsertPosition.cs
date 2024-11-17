@@ -1,4 +1,4 @@
-public class Program
+public class Solution
 {
     public static int SearchInsert(int[] nums, int target)
     {
@@ -21,6 +21,6 @@ public class Program
     {
         int[] nums = [1, 4, 3, 5];
         int target = 2; 
-        Console.WriteLine($"Index of {target} is {SearchInsert(nums, target)}");
+        Console.WriteLine($"Index of the target({target}) is {SearchInsert(nums, target)}");
     }
 }
