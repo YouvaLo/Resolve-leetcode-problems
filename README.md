@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various problems on [LeetCode](https://leetcode.com/problemset/). 
 
-Below you will find links to the description of each problem : 
+Below you will find links to the description and solution of each problem : 
 
 ## Problem Difficulty level : Easy 
 
