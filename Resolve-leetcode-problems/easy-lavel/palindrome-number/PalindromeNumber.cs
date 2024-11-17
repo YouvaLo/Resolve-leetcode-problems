@@ -1,8 +1,8 @@
 using System;
 		
-public class Program
+public class Solution
 {
-	// Méthode 1
+	// 1st Method
 	public static bool IsPalindrome(int x) 
 	{    
 		var xString = x.ToString();
@@ -21,7 +21,7 @@ public class Program
 	}
 
 	/* 
-	// Méthode 2
+	// 2nd Method
 	public static bool IsPalindrome(int x) 
 	{
 		//Convertir x en string 
@@ -42,7 +42,7 @@ public class Program
 	}
 	*/
 	
-	//Exécuter le code 
+	//Execute the code 
 	public static void Main()
 	{
 		var x = 121;
@@ -50,9 +50,9 @@ public class Program
 		var z = 1;
 		var w = 100021;
 		
-		Console.WriteLine($"x is a palindrome : {IsPalindrome(x)}");
-		Console.WriteLine($"y is a palindrome : {IsPalindrome(y)}");
-		Console.WriteLine($"z is a palindrome : {IsPalindrome(z)}");
-		Console.WriteLine($"w is a palindrome : {IsPalindrome(w)}");
+		Console.WriteLine($"{x} is a palindrome : {IsPalindrome(x)}");
+		Console.WriteLine($"{y} is a palindrome : {IsPalindrome(y)}");
+		Console.WriteLine($"{z} is a palindrome : {IsPalindrome(z)}");
+		Console.WriteLine($"{w} is a palindrome : {IsPalindrome(w)}");
 	}
 }
