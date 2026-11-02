@@ -2,10 +2,6 @@
 
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 
-## Rank and Runtime/Memory Statistics :  
-
-<img src="../../assets/LengthOfTheLastWord.png" alt="Runtime and Memory Statistics" width="500" height="300"/>
-
 ## Example 1:
 
     Input: s = " ab bc cd de ef fg gh h"

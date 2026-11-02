@@ -6,10 +6,6 @@ An integer n is a power of three, if there exists an integer x such that n == 3x
 
 By using the Natural Logarithm : 
 
-## Rank and Runtime/Memory Statistics :  
-
-<img src="../../assets/PowerOfThree.png" alt="Runtime and Memory Statistics" width="500" height="300"/>
-
 ## Example1 : 
 
     Input: n = 27
