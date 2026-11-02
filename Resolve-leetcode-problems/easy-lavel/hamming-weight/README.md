@@ -4,10 +4,6 @@ Given a positive integer n, write a function that returns the number of set bits
 
 NB : set bit is 1 
 
-## Rank and Runtime/Memory Statistics :  
-
-<img src="../../assets/NumberOfSetBits.png" alt="Runtime and Memory Statistics" width="500" height="300"/>
-
 ## Example : 
 
     Input: n = 31

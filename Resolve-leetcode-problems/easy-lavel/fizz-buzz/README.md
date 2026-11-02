@@ -7,10 +7,6 @@ Given an integer n, return a string array answer (1-indexed) where:
     - answer[i] == "Buzz" if i is divisible by 5.
     - answer[i] == i (as a string) if none of the above conditions are true.
 
-## Rank and Runtime/Memory Statistics :  
-
-<img src="../../assets/FizzBuzz.png" alt="Runtime and Memory Statistics" width="500" height="300"/>
-
 ## Example 1 : 
 
     Input: n = 2  ==> [1, 2]

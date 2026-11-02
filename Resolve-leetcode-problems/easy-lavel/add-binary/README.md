@@ -2,10 +2,6 @@
 
 Given two binary strings a and b, return their sum as a binary string.
 
-## Rank and Runtime/Memory Statistics :  
-
-<img src="../../assets/AddBinary.png" alt="Runtime and Memory Statistics" width="500" height="300"/>
-
 ## Example : 
 
     Input: a = "111" et b = "11"
